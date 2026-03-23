@@ -505,6 +505,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/3240?v=4",
       "profile": "https://pirxpilot.me/",
       "contributions": ["code", "data"]
+    },
+    {
+      "login": "mathewhaug",
+      "name": "mathewhaug",
+      "avatar_url": "https://avatars.githubusercontent.com/u/155565721?v=4",
+      "profile": "https://github.com/mathewhaug",
+      "contributions": ["data"]
     }
   ],
   "contributorsPerLine": 7
